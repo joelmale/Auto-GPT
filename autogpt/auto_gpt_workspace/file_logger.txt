@@ -1,0 +1,20 @@
+
+
+write: /workspace/Auto-GPT/autogpt/auto_gpt_workspace/project_folder/README.md #9059801b3e3f2968cc033a4dcbab7610
+write: /workspace/Auto-GPT/autogpt/auto_gpt_workspace/project_folder/splunk_resources.txt #7f5ca5bea25ec6dfdf801efecff204c4
+write: /workspace/Auto-GPT/autogpt/auto_gpt_workspace/project_folder/potential_stakeholders.txt #391f70f8fb751097f6930bb42b95acaf
+write: /workspace/Auto-GPT/autogpt/auto_gpt_workspace/Seagull_IRTTX/README.md #a86d26692d5ea354dba637ff79d39e2f
+write: /workspace/Auto-GPT/autogpt/auto_gpt_workspace/Seagull_IRTTX/scope.txt #7ec517dd9053177bba9e733d6b675a4b
+write: /workspace/Auto-GPT/autogpt/auto_gpt_workspace/Seagull_IRTTX/incidents.txt #29a6fe8dc11b6d1c069e7a14ff1ce379
+write: /workspace/Auto-GPT/autogpt/auto_gpt_workspace/Seagull_IRTTX/timeline.txt #ae165480affbcb9561a7d93f3ece701a
+write: /workspace/Auto-GPT/autogpt/auto_gpt_workspace/Seagull_IRTTX/phishing_attack.py #c4e706610725c0a9262047d5b949298f
+write: /workspace/Auto-GPT/autogpt/auto_gpt_workspace/Seagull_IRTTX/insider_threat.py #bc70a2827cdfb42779ca4de0aef686fe
+write: /workspace/Auto-GPT/autogpt/auto_gpt_workspace/Seagull_IRTTX/ransomware_attack.py #b1bf6095b8b839ad0132a28678456d98
+write: /workspace/Auto-GPT/autogpt/auto_gpt_workspace/Seagull_IRTTX/ddos_attack.py #1419ee1f7d260cfab96d68df1a9be4a7
+write: /workspace/Auto-GPT/autogpt/auto_gpt_workspace/Seagull_IRTTX/physical_breach.py #c38b5c17202ebc192720b7202d0ce43e
+write: /workspace/Auto-GPT/autogpt/auto_gpt_workspace/Seagull_IRTTX/timeline.txt #e7c192ad54681c2c63790c45b82fdee0
+write: /workspace/Auto-GPT/autogpt/auto_gpt_workspace/scenario.txt #826b751e71f8bd26c4de5a95d33b971e
+write: /workspace/Auto-GPT/autogpt/auto_gpt_workspace/inject1.txt #4d3f195567e388ebfcc9c896bef7a8b4
+write: /workspace/Auto-GPT/autogpt/auto_gpt_workspace/inject2.txt #6a4a090182128c5a13554c20086e0432
+write: /workspace/Auto-GPT/autogpt/auto_gpt_workspace/inject3.txt #a1bb4969e1351b7ddbdfcd3246ce99b4
+write: /workspace/Auto-GPT/autogpt/auto_gpt_workspace/key_takeaways.txt #10c89f515e6c594adffb40b6fe95ad31

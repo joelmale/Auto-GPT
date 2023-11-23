@@ -1,0 +1,1 @@
+The attackers have launched a DDoS attack on the Seagull network, causing significant disruption to network traffic and affecting the ability of the incident response team to coordinate and communicate. The participants will need to discuss and respond to this update based on their roles in the network.
